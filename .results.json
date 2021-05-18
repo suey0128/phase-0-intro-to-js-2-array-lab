@@ -5,9 +5,9 @@
     "passes": 9,
     "pending": 0,
     "failures": 0,
-    "start": "2021-04-25T23:43:17.846Z",
-    "end": "2021-04-25T23:43:18.303Z",
-    "duration": 457
+    "start": "2021-05-18T18:46:44.901Z",
+    "end": "2021-05-18T18:46:45.391Z",
+    "duration": 490
   },
   "tests": [
     {
@@ -20,14 +20,14 @@
     {
       "title": "appends a cat to the end of the cats array",
       "fullTitle": "index.js Array functions destructivelyAppendCat(name) appends a cat to the end of the cats array",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "prepends a cat to the beginning of the cats array",
       "fullTitle": "index.js Array functions destructivelyPrependCat(name) prepends a cat to the beginning of the cats array",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -87,14 +87,14 @@
     {
       "title": "appends a cat to the end of the cats array",
       "fullTitle": "index.js Array functions destructivelyAppendCat(name) appends a cat to the end of the cats array",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "prepends a cat to the beginning of the cats array",
       "fullTitle": "index.js Array functions destructivelyPrependCat(name) prepends a cat to the beginning of the cats array",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
